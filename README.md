@@ -16,3 +16,6 @@ https://www.youtube.com/channel/UCG16m3qEi6JAQRXXAcamhPA
 
 https://www.youtube.com/c/JinWonLee
 
+// Sungchul Kim
+
+https://www.youtube.com/channel/UCbh-5dPTPY9ZA2JYAvhFHpQ
