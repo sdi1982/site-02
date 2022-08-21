@@ -8,3 +8,11 @@ https://www.youtube.com/results?search_query=pr12+season+
 
 https://bit.ly/3QIhkro
 
+// 이수안 컴퓨터 연구소
+
+https://bit.ly/3wmexfk
+
+// iAI POSTECH
+
+https://www.youtube.com/channel/UCPHqDHsMG22FwzvKb0san7g/playlists
+
