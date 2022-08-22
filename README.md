@@ -16,3 +16,7 @@ https://bit.ly/3wmexfk
 
 https://www.youtube.com/channel/UCPHqDHsMG22FwzvKb0san7g/playlists
 
+// 인공지능팩토리(AIFactory)
+
+https://www.youtube.com/c/aifactoryspace/playlists
+
