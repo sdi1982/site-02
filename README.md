@@ -28,3 +28,7 @@ https://www.youtube.com/c/aifactoryspace/playlists
 
 https://bit.ly/3Kcdfcv
 
+// Minsuk Heo 허민석
+
+https://www.youtube.com/user/TheEasyoung/playlists
+
