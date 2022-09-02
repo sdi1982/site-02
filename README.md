@@ -36,3 +36,13 @@ https://www.youtube.com/user/TheEasyoung/playlists
 
 http://www.kocw.net/home/search/search.do
 
+// 텐서플로우2.0 강의
+
+https://www.youtube.com/watch?v=AHdGc4nR5f4
+
+https://www.youtube.com/watch?v=v0RoLCmqI54
+
+https://www.youtube.com/watch?v=vFQK6daIVr8
+
+https://www.youtube.com/watch?v=58LIZ7w3p2w
+
