@@ -46,3 +46,9 @@ https://www.youtube.com/watch?v=vFQK6daIVr8
 
 https://www.youtube.com/watch?v=58LIZ7w3p2w
 
+// 캐글
+
+https://www.kaggle.com/
+
+https://github.com/hunkim/KaggleZeroToAll
+
