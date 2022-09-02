@@ -38,6 +38,8 @@ http://www.kocw.net/home/search/search.do
 
 // 텐서플로우2.0 강의
 
+https://github.com/tensorflow/examples
+
 https://www.youtube.com/watch?v=AHdGc4nR5f4
 
 https://www.youtube.com/watch?v=v0RoLCmqI54
