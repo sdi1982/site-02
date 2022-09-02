@@ -52,3 +52,7 @@ https://www.kaggle.com/
 
 https://github.com/hunkim/KaggleZeroToAll
 
+https://www.youtube.com/watch?v=qMiwM8Wp8Sc
+
+https://www.youtube.com/watch?v=rEbBxxChJJQ
+
