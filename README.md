@@ -8,7 +8,7 @@ https://www.youtube.com/results?search_query=pr12+season+
 
 https://bit.ly/3QIhkro
 
-// 고려대학교 산영경영공학부 DSBA연구실
+// 고려대학교 산업경영공학부 DSBA연구실
 
 https://bit.ly/3wmi1OX
 
