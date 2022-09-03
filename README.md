@@ -60,3 +60,5 @@ https://www.youtube.com/watch?v=qMiwM8Wp8Sc
 
 https://www.youtube.com/watch?v=rEbBxxChJJQ
 
+https://github.com/the-black-knight-01/Data-Science-Competitions
+
