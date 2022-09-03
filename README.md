@@ -48,6 +48,8 @@ https://www.youtube.com/watch?v=vFQK6daIVr8
 
 https://www.youtube.com/watch?v=58LIZ7w3p2w
 
+https://www.tensorflow.org/resources/learn-ml
+
 // 캐글
 
 https://www.kaggle.com/
