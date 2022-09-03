@@ -32,6 +32,10 @@ https://bit.ly/3Kcdfcv
 
 https://www.youtube.com/user/TheEasyoung/playlists
 
+// Chanwoo Lee 이찬우
+
+https://www.youtube.com/c/chanwoolee/playlists
+
 // COCW 대학수학 강의
 
 http://www.kocw.net/home/search/search.do
