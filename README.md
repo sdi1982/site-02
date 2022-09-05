@@ -37,8 +37,8 @@ https://www.youtube.com/user/TheEasyoung/playlists
 https://www.youtube.com/c/chanwoolee/playlists
 
 // COCW 대학수학 강의
-
-http://www.kocw.net/home/search/search.do
+[
+http://www.kocw.net/home/search/search.do](http://www.kocw.net/home/search/search.do?query=%EC%88%98%ED%95%99)
 
 // 텐서플로우2.0 강의
 
