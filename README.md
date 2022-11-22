@@ -36,6 +36,10 @@ https://www.youtube.com/user/TheEasyoung/playlists
 
 https://www.youtube.com/c/chanwoolee/playlists
 
+// AI프랜즈 세미나
+
+https://www.youtube.com/watch?v=_b9R31UIZKM&list=PLZasDVDRptrnUeHMS2Tqn9CNaRzmXO-pF
+
 // 텐서플로우2.0 강의
 
 https://www.youtube.com/watch?v=AHdGc4nR5f4
