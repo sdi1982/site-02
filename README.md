@@ -40,6 +40,10 @@ https://www.youtube.com/c/chanwoolee/playlists
 
 https://www.youtube.com/watch?v=_b9R31UIZKM&list=PLZasDVDRptrnUeHMS2Tqn9CNaRzmXO-pF
 
+// Open Pose 설명서
+
+https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html
+
 // 텐서플로우2.0 강의
 
 https://www.youtube.com/watch?v=AHdGc4nR5f4
