@@ -70,3 +70,7 @@ https://www.youtube.com/watch?v=rEbBxxChJJQ
 
 https://github.com/the-black-knight-01/Data-Science-Competitions
 
+// 허깅페이스
+
+https://huggingface.co/
+
